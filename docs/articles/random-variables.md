@@ -4,7 +4,7 @@ title: Random Variables
 
 # Geometry of probability
 
-Probability is about proportion (ratio, frequence),
+Probability is about **proportion** (ratio, frequence),
 thus about geometry.
 
 # Geometry of Bayes' theorem
