@@ -653,6 +653,12 @@ TODO
 
 ## Examples and comments on Chapter 15
 
-TODO
+### 4. Probability and credibility
+
+- **Xie:** The term "credibility" (or as I would use "belief")
+  is used in a subjective sense,
+  this is distinguished from the term "probability"
+  which is defined by the proposition of
+  a given kind of event in all events.
 
 # Chapter 16. Plausible Reasoning in Invention and Instruction
