@@ -149,7 +149,7 @@ frequency, and this suggests two theorems:
 - Of all plane figures with a given area the circle has the shortest perimeter.
 - Of all membranes with a given area the circle has the lowest principal frequency.
 
-The geometrical minimum property of the circle,
+The geometric minimum property of the circle,
 inductively supported by Table II, has been proved.
 It is natural to expect that the analogous physical minimum property of the circle,
 inductively supported by Table III, will also turn out to be true.
@@ -595,10 +595,10 @@ P(A | ~B) < P(A)
 
 TODO
 
-- **Xie:** Is it possible to use the geometrical interpretion
+- **Xie:** Is it possible to use the geometric interpretion
   to view the reasoning in this chapter?
 
-  Maybe for geometrical interpretion to be applicable,
+  Maybe for geometric interpretion to be applicable,
   the random variables must be viewed as
   attributes or properties some objects.
 
@@ -606,7 +606,7 @@ TODO
 
   Remember [Po-Shen Loh's Way of solving quadratic equations](https://www.poshenloh.com/quadratic)?
 
-  Where geometrical interpretion of intermedium expressions
+  Where geometric interpretion of intermedium expressions
   can help us understand the problem in a very insightful way.
 
 ## 8. Examining a conflicting conjecture
@@ -655,10 +655,43 @@ TODO
 
 ### 4. Probability and credibility
 
+(1) Let `A(n)` denote the conjecture that
+the fair die that I am about to roll
+will show `n` spots `(n = 1, 2, ... 6)`.
+
 - **Xie:** The term "credibility" (or as I would use "belief")
   is used in a subjective sense,
   this is distinguished from the term "probability"
   which is defined by the proposition of
   a given kind of event in all events.
+
+The credibility of the conjecture `A(1)`
+turned out to have the same numerical value
+as the probability of the event
+that a fair die shows one spot.
+Yet this is not surprising at all:
+we admitted the same rules and assumed
+the same interchangeability (or symmetry)
+in computing credibilities and probabilities.
+(The reader should not forget, of course,
+that credibility and probability are quite differently defined.)
+
+- **Xie:** Does the geometric intuition
+  that comes from viewing probability as proportion
+  also apply to belief (credibility)?
+
+  I think not.
+
+  So what is the right intuition should we use
+  to explain Bayes' theorem for belief?
+
+  What is the intuition of the following equation for updating belief?
+
+  ```
+  P(A | B) = P(A, B) / P(B)
+  ```
+
+  Can we generalize this equation to mathematical objects other than number?
+  because our belief might be represented by more structured object than number.
 
 # Chapter 16. Plausible Reasoning in Invention and Instruction
