@@ -17,6 +17,10 @@ Visual explanations:
 We see that, a group of random variables describes a system of objects,
 where each random variable is an attribute (a property) of object.
 
+In this view, `P(B | A)` is to focus on those objects
+where `A` is equal to a given value,
+and use them as the denominator.
+
 The number of random variables is the dimension of the system.
 
 - Since we have objects and attributes,
@@ -26,7 +30,7 @@ Judea says that his causal graph is only about propositional logic,
 but not predicate logic, and when talking about predicate logic,
 he talk about properties and attributes.
 
-because a predicate of an object, can be viewed as a property of that object.
+Because a predicate of an object, can be viewed as a property of that object.
 
 In programming, when we define a predicate as a function,
 for example `even?` and `odd?` for `Nat`,
