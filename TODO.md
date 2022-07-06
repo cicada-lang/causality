@@ -24,6 +24,14 @@
 
     - Think about Polya's book, it seems has more complicate evidences.
 
+      If we are not sure about `A`,
+      but we have proof of `A -> B` and proof of `B`,
+      are't these proofs evidence of `A`?
+
+      The above inference is an abduction,
+      so evidence with uncertainty is constructed by
+      abduction and induction?
+
   - A database of evidences.
 
     - Like the PLANNER language?
