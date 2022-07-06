@@ -694,4 +694,15 @@ that credibility and probability are quite differently defined.)
   Can we generalize this equation to mathematical objects other than number?
   because our belief might be represented by more structured object than number.
 
+  Can we say view
+
+  ```
+  P(A, B) = P(A | B) * P(B)
+  ```
+
+  and say that, to show evidence of `A` and `B`,
+  it is not necessary to show evidence of `A` and evidence of `B` independently,
+  it is enough to show evidence of `B` and the construction of evidence of `A`
+  can use (depend on) the evidence of `B`?
+
 # Chapter 16. Plausible Reasoning in Invention and Instruction
