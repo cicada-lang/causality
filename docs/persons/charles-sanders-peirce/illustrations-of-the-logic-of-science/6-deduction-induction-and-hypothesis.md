@@ -222,7 +222,7 @@ occurrences of yesterday from our feeling as if we did so.
     i: White(bean)
     -------------------------
     memo(bean, c, i): Parital((bean: Bean) -> Bag(bean) -> White(bean))
-    // induction can be used to define parital function
+    // Induction can be used to define parital function.
 
 **HYPOTHESIS.**
 
@@ -235,6 +235,7 @@ occurrences of yesterday from our feeling as if we did so.
     i: White(bean)
     -------------------------
     guess(f, bean, i): Hypothesis(Bag(bean))
+    // TODO What is the use of hypothesis?
 
 # II
 
