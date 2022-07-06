@@ -655,7 +655,7 @@ TODO
 
 ### 4. Probability and credibility
 
-(1) Let `A(n)` denote the conjecture that
+Let `A(n)` denote the conjecture that
 the fair die that I am about to roll
 will show `n` spots `(n = 1, 2, ... 6)`.
 
