@@ -30,6 +30,15 @@ Judea says that his causal graph is only about propositional logic,
 but not predicate logic, and when talking about predicate logic,
 he talk about properties and attributes.
 
+- When we view a group of random variables as objects and properties,
+  aren't we already dealing with predicate logic?
+
+  Do we need nested random variables,
+  where one random variable might be a group of random variables?
+
+  Is predicate logic about `forall` and `exists`,
+  thus what we need is idea like dependent types?
+
 Because a predicate of an object, can be viewed as a property of that object.
 
 In programming, when we define a predicate as a function,
