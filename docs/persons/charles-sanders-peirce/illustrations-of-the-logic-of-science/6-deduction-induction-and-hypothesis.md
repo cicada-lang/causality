@@ -231,11 +231,11 @@ occurrences of yesterday from our feeling as if we did so.
     ∴ Case. - These beans are from this bag.
 
     f: (bean: Bean) -> Bag(bean) -> White(bean)
-    bean: Bean
-    i: White(bean)
+    bean: Bean, i: White(bean)
     -------------------------
     guess(f, bean, i): Hypothesis(Bag(bean))
     // TODO What is the use of hypothesis?
+    // (other than we can take `f, bean, i` out from it.)
 
 # II
 
