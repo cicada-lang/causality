@@ -1,6 +1,13 @@
+- patterns and correlations are about intuition,
+  causality is about the model,
+
+  - What is the model behind the intuition of "How to Solve it"?
+  - What is the model behind the intuition of "POODR" and "99bottles"?
+
 - setup typescript project
 
 - try to model a system of random variables
+
   - a `Sample` class?
 
 - Read "Patterns of Plausible Inference"
