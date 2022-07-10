@@ -756,7 +756,8 @@ suffice here.
   we can ask a deeper why about why such evidences made him belief `A`,
   he will explain his model.
 
-  A causal reasoning robot can know about how he is programmed,
+  A causal reasoning robot
+  can know about how he is programmed,
   how is this possible?
 
 **(1) Setting a problem to yourself.**
