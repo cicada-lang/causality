@@ -706,3 +706,18 @@ that credibility and probability are quite differently defined.)
   can use (depend on) the evidence of `B`?
 
 # Chapter 16. Plausible Reasoning in Invention and Instruction
+
+## 1. Object of the present chapter
+
+The examples in the first part of this work and the discussions in the
+foregoing chapters of the second part elucidated somewhat, I hope, the
+role of plausible reasoning in the discovery of mathematical
+facts. Yet the mathematician does not only guess; he also has problems
+to solve, and he has to prove the facts that he guessed.
+
+What is the role of plausible reasoning in the discovery of the
+solution or in the invention of the proof?
+
+And, by the way, this is the question that attracted the author who,
+primarily concerned with the methods of problem-solving,
+was eventually led to the subject of the present book.
