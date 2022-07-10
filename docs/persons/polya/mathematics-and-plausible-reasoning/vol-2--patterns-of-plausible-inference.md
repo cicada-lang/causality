@@ -801,11 +801,11 @@ begin to analyze your feeling: "The direction looked quite plausible
 -- but why is it plausible?" Then you may start debating with
 yourself, and some more distinct reasons may occur to you:
 
-- "The situation is not so bad. I could bring in a triangle.  People
+- "The situation is not so bad. I could bring in a triangle. People
   always bring in triangles in such problems."
 
 - "It was probably the right start, after all. It looks like the right
-  solution.  What do I need for a solution with this kind of problem?
+  solution. What do I need for a solution with this kind of problem?
   Such a point -- and I have it. And that kind of point -- I have it
   too. And ..."
 
@@ -813,3 +813,18 @@ It would be interesting to see more distinctly how people are
 reasoning in such a situation -- in fact, it is our main purpose to
 see just that. Yet we need at least one more example to broaden our
 observational basis.
+
+## 4. Deus ex machina [God out of the machine]
+
+## 7. Some typical indications
+
+We consider a situation in which plausible reasoning comes naturally
+to the problem-solver. You are engaged in an exciting problem. You
+have conceived a plan of the solution, but somehow you do not like it
+quite. You have your doubts, you are not quite convinced that your
+plan is workable. In debating this matter with yourself, you are, in
+fact, examining a conjecture:
+
+**A. This plan of the solution will work.**
+
+TODO
