@@ -1,5 +1,5 @@
-- patterns and correlations are about intuition,
-  causality is about the model,
+- Patterns and correlations are about intuition,
+  causality is about the model.
 
   - What is the model behind the intuition of "How to Solve it"?
   - What is the model behind the intuition of "POODR" and "99bottles"?

@@ -760,6 +760,17 @@ suffice here.
   can know about how he is programmed,
   how is this possible?
 
+  A model about deduction, induction and hypothesis (guessing),
+  does not cause the robot to belief something,
+  but cause him to explore in certain directions.
+
+  Suppose the robot can also do proof search,
+  we ask him why he searched the proof of `B`,
+  him might say, he is interested in proving `A`,
+  and he know `A -> B`, thus based on his model,
+  a proof of `B` can be used as a guess
+  to increase his belief of `A`.
+
 **(1) Setting a problem to yourself.**
 
 A problem becomes a problem for you when you propose it to yourself.
@@ -863,6 +874,33 @@ speak for the conjecture A.
   guess(f, b): Hypothesis(A) // This plan might be the solution.
   ```
 
+  All of the following patterns is of this can of reasoning,
+  i.e. a hypothesis in the sense of Peirce.
+
 **B2. This plan provides for a connection between the data and the unknown.**
 
-- **Xie:** The plausible reasoning is the same as `B1`.
+**B3. This plan has features that are often useful in solving problems of this kind.**
+
+- **Xie:** From this indication, we recognize that,
+  this is typical Bayesian reasoning.
+
+  Thus the "hypothesis" mode of reasoning of Peirce,
+  is the same as Bayesian reasoning.
+
+**B4. This plan is similar to one that succeeded in solving an analogous problem.**
+
+**B5. This plan succeeded in solving a particular case of the problem.**
+
+**B6. This plan succeeded in solving a part of the problem (in finding some of the unknowns, or in proving a weaker conclusion).**
+
+This list is by no means exhaustive. There are still other typical
+indications and signs, but we need not list them here. At any rate, it
+would be useless to list them without proper illustration.
+
+- **Xie:** We see that, it is not enough to know about
+  the "hypothesis" mode of reasoning of Peirce,
+  we must also know a lot of concrete example of `B` in `A -> B`.
+
+## 8. Induction in invention
+
+TODO
