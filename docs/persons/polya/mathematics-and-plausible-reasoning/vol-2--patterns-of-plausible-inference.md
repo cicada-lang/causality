@@ -738,9 +738,26 @@ suffice here.
 - **Xie:** What is plausible reasoning?
 
   If the foregoing chapter is plausible reasoning,
-  then it is a simple application of Bayes' rule.
+  then it is a calculus of evidence
+  based on some simple applications of Bayes' rule.
 
-  How about causality and model?
+  - Is it the same as Bayesian network?
+
+  - How about causality and model?
+
+- **Xie:** Since plausible reasoning is
+  at the first level of the causal ladder,
+  it does not have a model.
+
+  A model of problem solving would be
+  a model about deduction, induction and hypothesis (guessing),
+  we can ask a causal reasoning robot, why he beliefs `A`,
+  he will explain by showing the inductive and hypothetical evidences,
+  we can ask a deeper why about why such evidences made him belief `A`,
+  he will explain his model.
+
+  A causal reasoning robot can know about how he is programmed,
+  how is this possible?
 
 **(1) Setting a problem to yourself.**
 
@@ -781,6 +798,9 @@ any rate, such judgments and feelings are important for you
 personally; they guide your effort.
 
 **(4) Where plausible reasoning comes in.**
+
+- **Xie:** Plausible reasoning can be used to evaluate (judge)
+  the value of a plan and its progress.
 
 Let us see somewhat more concretely a typical situation.
 
@@ -827,4 +847,21 @@ fact, examining a conjecture:
 
 **A. This plan of the solution will work.**
 
-TODO
+Several pros and cons may occur to you as you examine your plan from
+various angles. Here are some conspicuous typical indications that may
+speak for the conjecture A.
+
+**B1. This plan takes all the data into account.**
+
+- **Xie:** The plausible reasoning is the following:
+
+  ```
+  f: A -> B1 // Solution takes all the data into account.
+  b: B1 // This plan takes all the data into account.
+  ----------------------------------
+  guess(f, b): Hypothesis(A) // This plan might be the solution.
+  ```
+
+**B2. This plan provides for a connection between the data and the unknown.**
+
+- **Xie:** The plausible reasoning is the same as `B1`.

@@ -17,7 +17,7 @@ Visual explanations:
 We see that, a group of random variables describes a system of objects,
 where each random variable is an attribute (a property) of object.
 
-In this view, `P(B | A)` is to focus on those objects
+In this view, `P(B | A)` is to focus on (filter out) those objects
 where `A` is equal to a given value,
 and use them as the denominator.
 
