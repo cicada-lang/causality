@@ -721,3 +721,95 @@ solution or in the invention of the proof?
 And, by the way, this is the question that attracted the author who,
 primarily concerned with the methods of problem-solving,
 was eventually led to the subject of the present book.
+
+## 2. The story of a little discovery
+
+## 3. The process of solution
+
+Solving a problem is an extremely complex process. No description or
+theory of this process can exhaust its manifold aspects, any
+description or theory of it is bound to be incomplete, schematic,
+highly simplified. I wish to point out the place of plausible
+reasoning in this complex process, and I shall choose the simplest
+description I am able to find in which this place can be recognizably
+located. And even the beginning of such a simple description will
+suffice here.
+
+- **Xie:** What is plausible reasoning?
+
+  If the foregoing chapter is plausible reasoning,
+  then it is a simple application of Bayes' rule.
+
+  How about causality and model?
+
+**(1) Setting a problem to yourself.**
+
+A problem becomes a problem for you when you propose it to yourself.
+A problem is not yet your problem just because you are supposed to solve
+it in an examination. If you wish that somebody would come and tell
+you the answer, I suspect that you did not yet set that problem to
+yourself in earnest. But if you are anxious to find the answer
+yourself, by your own means, then you have made the problem really
+yours, you are serious about it.
+
+Setting a problem to yourself is the beginning of the solution, the
+essential first move in the game. It is a move in the nature of a
+decision.
+
+**(2) Selective attention.**
+
+You need not tell me that you have set that problem to yourself, you
+need not tell it to yourself; your whole behavior will show that you
+did. Your mind becomes selective; it becomes more accessible to
+anything that appears to be connected with the problem, and less
+accessible to anything that seems unconnected. You eagerly seize upon
+any recollection, remark, suggestion, or fact that could help you to
+solve your problem, and you shut the door upon other things. When the
+door is so tightly shut that even the most urgent appeals of the
+external world fail to reach you, people say that you are absorbed.
+
+**(3) Registering the pace of progress.**
+
+There is another thing that shows that you are seriously engaged in
+your problem; you become sensitive. You keenly feel the pace of your
+progress; you are elated when it is rapid, you are depressed when it
+is slow. Whatever comes to your mind is quickly sized up: "It looks
+good," "It could help," or "No good," "No help." Such judgments are,
+of course, not infallible. (Although they seem to be more often
+correct than not, especially with talented or experienced people.) At
+any rate, such judgments and feelings are important for you
+personally; they guide your effort.
+
+**(4) Where plausible reasoning comes in.**
+
+Let us see somewhat more concretely a typical situation.
+
+You try to attain the solution in a certain direction, along a certain line.
+(For example, in trying to solve the geometrical problem of sect. 2 you reject
+fig. 16.2 and attempt to work with the more hopeful fig. 16.3.) You may
+feel quite keenly that you work in the right direction, that you follow a
+promising line of approach, that you are on the scent. You may feel so,
+by the way, without formulating your feeling in words. Or even if you say
+something such as, "It looks good," you do not take the trouble to analyze
+your confidence, you do not ask, "Why does it look good?" You are just
+too busy following up the scent.
+
+Yet you may have bad luck. You run into difficulties, you do not make
+much progress, nothing new occurs to you and then you start doubting:
+"Was it a good start? Is this the right direction?" And then you may
+begin to analyze your feeling: "The direction looked quite plausible
+-- but why is it plausible?" Then you may start debating with
+yourself, and some more distinct reasons may occur to you:
+
+- "The situation is not so bad. I could bring in a triangle.  People
+  always bring in triangles in such problems."
+
+- "It was probably the right start, after all. It looks like the right
+  solution.  What do I need for a solution with this kind of problem?
+  Such a point -- and I have it. And that kind of point -- I have it
+  too. And ..."
+
+It would be interesting to see more distinctly how people are
+reasoning in such a situation -- in fact, it is our main purpose to
+see just that. Yet we need at least one more example to broaden our
+observational basis.
