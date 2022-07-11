@@ -909,8 +909,10 @@ would be useless to list them without proper illustration.
 
 ## Xie: Induction v.s. Hypothesis
 
-We see in the following chapter, Polya confused induction with hypothesis,
-when using the word "induction" in this section, he really means hypothesis.
+We see in the following chapter,
+Polya confused induction with hypothesis,
+sometimes when using the word "induction" in this section,
+he really means hypothesis.
 
 **DEDUCTION.**
 
@@ -971,3 +973,37 @@ inductive investigation of a mathematical or physical conjecture, or
 from the judicial investigation of a charge: it is the difference
 between a changeable, or fleeting, and a determinate, relatively well
 defined object.
+
+(2) The proceedings and acts of a court of justice are laid down in
+the record. The conjecture examined by the naturalist, and the
+evidence gathered for or against it, are also destined for a permanent
+record. Not so the problem-solver's conjecture concerning the
+workability of his scheme, or the signs speaking for or against it:
+their importance is ephemeral. They are extremely important as long as
+they guide the problem-solver's decisions.  Yet, when the
+problem-solver's work enters a new phase, the plan itself may change,
+and then the indications speaking for or against it lose almost all
+interest. At the end, when the solution is attained and the problem is
+done, all such accessories are cast away. The final form of the
+solution may be recorded, yet the changing plans and the arguments for
+or against them are mostly or entirely forgotten. The building erected
+remains in view, but the scaffoldings, which were necessary to erect
+it, are removed.
+
+Let us note this aspect of the difference between an
+inductive, or judicial, investigation on the one hand, and the
+problem-solver's appraisal of the prospects of his plan on the other:
+one is, the other is not, for permanent record.
+
+- **Xie:** We have seen from the foregoing sections,
+  to avoid Deus ex machina in demonstration,
+  we should better provide the middle thoughts
+  leading up to the final solution.
+
+  Maybe it is useful to develop a tool
+  called "personal problem-solving adviser",
+  which can help us to record the workability evidences of a plan
+  (just like the court record).
+
+  - To help us be clear about our conjectures,
+    and make it easy to review the history of our through process.
