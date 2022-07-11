@@ -242,6 +242,10 @@ occurrences of yesterday from our feeling as if we did so.
     // with the evidence in our guess,
     // and wish to learn something from this comparison.
 
+- **Xie:** In the design of a proof assistant,
+  we know that guessing is a big part of mathematical activities,
+  why not also formalize guessing and build tools around it?
+
 # II
 
 Besides the way just pointed out of inverting a deductive syllogism to
