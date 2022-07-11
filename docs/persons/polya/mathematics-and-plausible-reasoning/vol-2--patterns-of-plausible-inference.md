@@ -874,8 +874,7 @@ speak for the conjecture A.
   guess(f, b): Hypothesis(A) // This plan might be the solution.
   ```
 
-  All of the following patterns is of this can of reasoning,
-  i.e. a hypothesis in the sense of Peirce.
+- **Xie:** `B2`, `B3`, `B4` are all hypothesis in the sense of Peirce.
 
 **B2. This plan provides for a connection between the data and the unknown.**
 
@@ -893,6 +892,13 @@ speak for the conjecture A.
 
 **B6. This plan succeeded in solving a part of the problem (in finding some of the unknowns, or in proving a weaker conclusion).**
 
+- **Xie:** `B5` and `B6` can be viewed as induction,
+  because to do induction is to give partial solution.
+
+  "a particular case of the problem" and "a part of the problem"
+  can both be viewed as a condition `c: C`
+  under which we can prove `A(c)` (the plan works for `c`).
+
 This list is by no means exhaustive. There are still other typical
 indications and signs, but we need not list them here. At any rate, it
 would be useless to list them without proper illustration.
@@ -901,11 +907,9 @@ would be useless to list them without proper illustration.
   the "hypothesis" mode of reasoning of Peirce,
   we must also know a lot of concrete example of `B` in `A -> B`.
 
-## 8. Induction in invention
-
 ## Xie: Induction v.s. Hypothesis
 
-We see in this chapter, Polya confused induction with hypothesis,
+We see in the following chapter, Polya confused induction with hypothesis,
 when using the word "induction" in this section, he really means hypothesis.
 
 **DEDUCTION.**
@@ -940,3 +944,30 @@ when using the word "induction" in this section, he really means hypothesis.
     bean: Bean, i: White(bean)
     -------------------------
     guess(f, bean, i): Hypothesis(Bag(bean))
+
+## 8. Induction in invention
+
+(1) When the problem-solver debates his plan of the solution with
+himself, this plan is usually more "fluid" than "rigid," it is more
+felt than formulated. In fact it would be foolish of the
+problem-solver to fix his plan prematurely. A wise problem-solver
+does not commit himself to a rigid plan. Even at a later stage, when
+the plan is riper, he keeps it ready for modification, he leaves it a
+certain flexibility, he reckons with unforeseen difficulties to which
+he might be obliged to adapt his plan. Therefore, when the problem-
+solver investigates the workability of his plan, he examines a
+changeable, sometimes a fleeting, object.
+
+On the other hand, the conjectures that the mathematician or the
+naturalist investigates are usually pretty determinate: they are
+clearly formulated, or at least reasonably close to a clear
+formulation. Also the jury has a pretty determinate conjecture to
+examine: an indictment, the terms of which have been carefully laid
+down by the prosecution.
+
+Let us note this striking difference that separates the
+problem-solver's investigation of the workability of his plan from the
+inductive investigation of a mathematical or physical conjecture, or
+from the judicial investigation of a charge: it is the difference
+between a changeable, or fleeting, and a determinate, relatively well
+defined object.
