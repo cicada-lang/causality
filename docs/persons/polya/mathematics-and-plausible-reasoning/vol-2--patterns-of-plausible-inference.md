@@ -1013,3 +1013,23 @@ one is, the other is not, for permanent record.
 
   - To help us be clear about our conjectures,
     and make it easy to review the history of our through process.
+
+(10) Two persons presented with the same evidence may honestly
+disagree, even if they are relying on the same patterns of plausible
+reasoning.  Their backgrounds may be different. My unexpressed,
+inarticulate grounds, my whole background may influence my evaluation
+of experimental or judicial evidence. They may influence still more my
+evaluation of the indications for or against my plan of the solution,
+and this is not unreasonable. It is reasonable that, working at the
+solution of a problem, I should attach more weight than under other
+conditions to the promptings of my background and less weight to
+distinctly formulated grounds: to stir up relevant material hidden
+somewhere in the background is the thing I am working for.
+
+Still, it seems to me that one of the principal assets of a seasoned
+problem-solver is that he is able to deal astutely with indications
+for or against the workability of his plan, as a well-trained
+naturalist deals with experimental evidence, or an experienced lawyer
+with legal evidence.
+
+## 9. A few words to the teacher
