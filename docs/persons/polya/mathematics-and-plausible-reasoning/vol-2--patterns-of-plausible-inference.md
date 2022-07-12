@@ -980,7 +980,7 @@ evidence gathered for or against it, are also destined for a permanent
 record. Not so the problem-solver's conjecture concerning the
 workability of his scheme, or the signs speaking for or against it:
 their importance is ephemeral. They are extremely important as long as
-they guide the problem-solver's decisions.  Yet, when the
+they guide the problem-solver's decisions. Yet, when the
 problem-solver's work enters a new phase, the plan itself may change,
 and then the indications speaking for or against it lose almost all
 interest. At the end, when the solution is attained and the problem is
@@ -1004,6 +1004,12 @@ one is, the other is not, for permanent record.
   called "personal problem-solving adviser",
   which can help us to record the workability evidences of a plan
   (just like the court record).
+
+  - We might have top-level keywords:
+
+    - `claim` -- deduction
+    - `observe` -- inductive
+    - `guess` -- guessing
 
   - To help us be clear about our conjectures,
     and make it easy to review the history of our through process.
