@@ -1131,6 +1131,12 @@ TODO
 
   How about other kind of models?
 
+TODO
+
+### 7.1.2 Evaluating Counterfactuals: Deterministic Analysis
+
+TODO
+
 # 8 Imperfect Experiments: Bounding Effects and Counterfactuals
 
 # 9 Probability of Causation: Interpretation and Identification
