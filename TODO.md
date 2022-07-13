@@ -1,5 +1,3 @@
-- setup typescript project
-
 - try to model a system of random variables
 
   - a `Sample` class?
