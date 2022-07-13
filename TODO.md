@@ -1,6 +1,12 @@
-- try to model a system of random variables
+> Do not forget to scale back the scope ~
 
+- build a causal inference engine for real valued random variables first.
+
+- try to model a system of random variables
+  - review `docs/articles/random-variables.md`
   - a `Sample` class?
+
+- A good API for working with (directed) graph.
 
 # learn
 
