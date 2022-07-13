@@ -4,6 +4,9 @@ title: Causal Inference Engine
 
 # NOTE
 
+- Patterns and correlations are about intuition,
+  causality is about the model.
+
 - Maybe I can write a book with Dan on this topic.
 
   - There are so many good puzzles in this topic.
