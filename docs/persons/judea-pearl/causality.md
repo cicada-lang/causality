@@ -1124,6 +1124,13 @@ that are altered in such changes.
 
 TODO
 
+- **Xie:** A counterfactual expression is interpreted as
+  a hypothetical modification of the model,
+  if the model is implemented by a group of equations about number,
+  there are many modifications.
+
+  How about other kind of models?
+
 # 8 Imperfect Experiments: Bounding Effects and Counterfactuals
 
 # 9 Probability of Causation: Interpretation and Identification
