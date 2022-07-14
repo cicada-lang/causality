@@ -13,6 +13,8 @@
   we can use pattern matching to do queries,
   just like we can use inequality to do queries for numerical function.
 
+- Survey classical expert systems.
+
 # learn
 
 - Read "Causality -- Models, Reasoning and Inference".
