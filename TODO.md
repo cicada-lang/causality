@@ -15,6 +15,26 @@
 
 - Survey classical expert systems.
 
+  If we have
+
+  ```
+  Man(x) -> Mortal(x)
+  ```
+
+  and we ask why `Mortal(Socrates)`,
+  the robot answers because `Man(Socrates)`,
+  the word "why" is used here,
+  but it is not about causality?
+  it is only about explanation,
+  but is explanation about causality?
+
+  if it is our model,
+  the model is not about random variables,
+  but about properties of objects.
+
+  one object might has different properties,
+  and the properties might related by functions.
+
 # learn
 
 - Read "Causality -- Models, Reasoning and Inference".
