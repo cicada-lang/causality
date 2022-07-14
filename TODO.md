@@ -35,6 +35,9 @@
   one object might has different properties,
   and the properties might related by functions.
 
+  note that we can view `isMan` and `isMortal`
+  as properties of `Socrates` of type `Boolean`.
+
 # learn
 
 - Read "Causality -- Models, Reasoning and Inference".
