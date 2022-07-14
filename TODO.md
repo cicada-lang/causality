@@ -8,6 +8,11 @@
 
 - A good API for working with (directed) graph.
 
+- Thinking about structural causal model,
+  what if the functions are symbolic instead of numerical,
+  we can use pattern matching to do queries,
+  just like we can use inequality to do queries for numerical function.
+
 # learn
 
 - Read "Causality -- Models, Reasoning and Inference".
